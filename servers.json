@@ -1,0 +1,11 @@
+[
+  {
+    "name": "PRIME RUSSIA", 
+    "host": "178.130.53.97",
+    "port": 3306,
+    "user": "gs359243", 
+    "password": "CZNpWairVjRE", 
+    "database": "gs359243", 
+    "table": "accounts"
+  }
+]
